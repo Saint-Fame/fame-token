@@ -471,7 +471,7 @@ contract ERC20Burnable is Context, ERC20 {
 
 contract Token is ERC20Detailed, ERC20Mintable, ERC20Burnable {
 
-  constructor() ERC20Detailed("SAINT Fame: Genesis Shirt", "FAME", 18) public {
+  constructor() ERC20Detailed("SAINT FAME: Genesis Shirt", "FAME", 18) public {
   }
 
 }
